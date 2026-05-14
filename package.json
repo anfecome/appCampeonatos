@@ -8,7 +8,7 @@
     },
     "dependencies": {
         "vite": "^7.0.7",
-    }
+    },
     "devDependencies": {
         "@tailwindcss/forms": "^0.5.2",
         "@tailwindcss/vite": "^4.0.0",
