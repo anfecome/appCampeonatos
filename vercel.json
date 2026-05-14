@@ -1,7 +1,7 @@
 {
     "version": 2,
       "framework": null,
-      "outputDirectory": "dist",
+      "outputDirectory": "dist"
     "functions": {
         "api/lambda.php": { "runtime": "vercel-php@0.6.0" }
     },
